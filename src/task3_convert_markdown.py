@@ -58,14 +58,32 @@ def convert_legal_docs() -> None:
                 pass
 
         if not text_content and target_file.exists():
-            continue
+            text_content = target_file.read_text(encoding="utf-8")
 
         if text_content:
-            target_file.write_text(text_content, encoding="utf-8")
+            import hashlib
+            import json
+            if text_content.startswith("---\n"):
+                parts = text_content.split("---\n", 2)
+                body = parts[2] if len(parts) >= 3 else text_content
+            else:
+                body = text_content
+
+            sha256 = hashlib.sha256(path.read_bytes()).hexdigest()
+            header = (
+                f"---\n"
+                f"title: {json.dumps(path.stem)}\n"
+                f"url: {json.dumps('https://uet.vnu.edu.vn/legal/' + path.name)}\n"
+                f"source_file: {json.dumps('data/landing/legal/' + path.name)}\n"
+                f"archive_sha256: {json.dumps(sha256)}\n"
+                f"---\n\n"
+            )
+            target_file.write_text(header + body.strip(), encoding="utf-8")
 
 
 def convert_news_articles() -> None:
     """Convert JSON vào standardized/news."""
+    import hashlib
     import json
 
     news_dir = LANDING_DIR / "news"
@@ -76,12 +94,17 @@ def convert_news_articles() -> None:
         if path.name.startswith("."):
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
+        sha256 = hashlib.sha256(path.read_bytes()).hexdigest()
         header = (
-            f"# {data['title']}\n\n"
-            f"**Source:** {data['url']}\n\n"
-            f"**Crawled:** {data['date_crawled']}\n\n---\n\n"
+            f"---\n"
+            f"title: {json.dumps(data['title'])}\n"
+            f"url: {json.dumps(data['url'])}\n"
+            f"date_crawled: {json.dumps(data.get('date_crawled', ''))}\n"
+            f"source_file: {json.dumps('data/landing/news/' + path.name)}\n"
+            f"archive_sha256: {json.dumps(sha256)}\n"
+            f"---\n\n"
         )
-        content = header + data.get("content_markdown", "")
+        content = header + data.get("content_markdown", "").strip()
         (output_dir / f"{path.stem}.md").write_text(content, encoding="utf-8")
 
 
