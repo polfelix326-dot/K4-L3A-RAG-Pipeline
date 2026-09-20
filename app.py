@@ -117,6 +117,12 @@ st.markdown(
         border-radius: 6px;
         border-left: 3px solid #3b82f6;
     }
+    /* Làm nổi bật khung chat ở cạnh dưới màn hình */
+    [data-testid="stChatInput"] {
+        border-radius: 12px !important;
+        border: 2px solid #3b82f6 !important;
+        box-shadow: 0 4px 15px rgba(59, 130, 246, 0.15) !important;
+    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -207,20 +213,34 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Hiển thị gợi ý câu hỏi mẫu khi chưa có tin nhắn
+# Hướng dẫn vị trí ô chat & Gợi ý câu hỏi mẫu khi chưa có tin nhắn
 if not st.session_state.messages:
+    st.markdown(
+        """
+        <div style="padding: 12px 16px; background: rgba(59, 130, 246, 0.08); border-left: 4px solid #3b82f6; border-radius: 8px; margin-bottom: 1.2rem;">
+            <b style="color: #1e40af;">💬 Bạn muốn đặt câu hỏi?</b><br/>
+            Ô nhập câu hỏi được <b>ghim cố định ở cạnh dưới cùng của màn hình</b> (thanh chat bar ở đáy trang). Bạn có thể gõ câu hỏi vào ô <i>"💬 Nhập câu hỏi của bạn tại đây..."</i> rồi nhấn <b>Enter</b>, hoặc bấm chọn nhanh một trong các câu hỏi mẫu bên dưới:
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
     st.markdown("### 💡 Gợi ý câu hỏi thử nghiệm")
     col1, col2 = st.columns(2)
     with col1:
         if st.button("📋 Điều kiện xét cấp học bổng khuyến khích học tập?", use_container_width=True):
             st.session_state.prefill_query = "Điều kiện xét cấp học bổng khuyến khích học tập?"
+            st.rerun()
         if st.button("💳 Quy định mức thu học phí và thời hạn đóng?", use_container_width=True):
             st.session_state.prefill_query = "Quy định mức thu học phí và thời hạn đóng?"
+            st.rerun()
     with col2:
         if st.button("🏛️ Thủ tục đăng ký ký túc xá và đối tượng ưu tiên?", use_container_width=True):
             st.session_state.prefill_query = "Thủ tục đăng ký ký túc xá và đối tượng ưu tiên?"
+            st.rerun()
         if st.button("🌦️ Dự báo thời tiết ngày mai thế nào? (Out-of-domain test)", use_container_width=True):
             st.session_state.prefill_query = "Dự báo thời tiết ngày mai thế nào?"
+            st.rerun()
 
 # Render các tin nhắn trong lịch sử chat
 for idx, message in enumerate(st.session_state.messages):
@@ -280,12 +300,16 @@ for idx, message in enumerate(st.session_state.messages):
 # ==========================================
 # NHẬN CÂU HỎI VÀ XỬ LÝ GENERATION
 # ==========================================
-prefilled = getattr(st.session_state, "prefill_query", None)
-if prefilled:
-    query = prefilled
+# Luôn luôn hiển thị thanh st.chat_input ở dưới đáy màn hình
+user_typed_query = st.chat_input("💬 Nhập câu hỏi của bạn tại đây (ấn Enter để gửi)...")
+
+# Xác định query: từ nút bấm gợi ý hoặc từ người dùng gõ vào ô chat
+query = None
+if getattr(st.session_state, "prefill_query", None):
+    query = st.session_state.prefill_query
     del st.session_state.prefill_query
-else:
-    query = st.chat_input("Nhập câu hỏi của bạn về quy định, tài liệu...")
+elif user_typed_query:
+    query = user_typed_query
 
 if query:
     # 1. Hiển thị câu hỏi của User
