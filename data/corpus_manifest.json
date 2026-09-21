@@ -1,0 +1,27 @@
+{
+  "source_archive": "k4-day8-data.zip",
+  "archive_sha256": "7238736cdc5fb8ffc58f647c5353ceae0cf90aa52e99f96dbc8b0c6a5f87303b",
+  "landing_files": {
+    "data/landing/legal/1011.pdf": "00d9bb4ca727d9f506a5eeb2dd07d0809b05d2b69e9800efd3afd9bf14812fe0",
+    "data/landing/legal/Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf": "df2cbc51876f7ab3b61a6601a82ec55e9711e17a87cc1c173a854c78b34c2dc8",
+    "data/landing/legal/Signed.Signed.Signed.2024_10_4_QUY-DINH-VE-HOC-BONG-1.pdf": "8c1e1401ab346924f8f078ec5ec73c6a1cc568c5b3f701f6fc4e1b4ba8019b09",
+    "data/landing/news/article_01.json": "a178b9c28d2cf52957ff0adc02666df8fab95a6d96a7c6e5e54f3acfa05de73d",
+    "data/landing/news/article_02.json": "2bc84223f11437f7800ae7e2d462d7825205a845386398cb43913d8cabf730d1",
+    "data/landing/news/article_03.json": "9ca976087afd38965c9a9ba769e5732b8767fca5d3718d9fdf376b4328247430",
+    "data/landing/news/article_04.json": "6c208587554478de7552c6cd7a431cf756a6b6c0b9db21bd511147a7070856cb",
+    "data/landing/news/article_05.json": "ee3361b2557bc08774b6f1164e29881d2720899f2dedcf4e21a0ab6eaf78b65b",
+    "data/landing/news/article_06.json": "dc6af7e2421a83550358d1e1cab28746aecf97da2d82cf2273b2a2dcab11202d"
+  },
+  "corpus_sha256": "93eee13e69395e6e657f259d69010b0fc6778dfa058c216b55d8bd5ddf3607ae",
+  "files": {
+    "data/standardized/legal/1011.md": "e8aefcdbdf064054d6080f1afb2058184eb10018d3a3274eadb222f45b7b7b98",
+    "data/standardized/legal/Quy-dinh-Hoc-bong-KKHT-UET-2026.md": "7068cc4301d63f7dfbfea7616fc4b9cc963b7c4d4c23ca66e2d0e7af9b112b11",
+    "data/standardized/legal/Signed.Signed.Signed.2024_10_4_QUY-DINH-VE-HOC-BONG-1.md": "af2b9d6494077f34c22370be3d5f398dff7f642029a65136b543028689b9a495",
+    "data/standardized/news/article_01.md": "5803313f8286ae758b652894e384907c1783c59bfbd9c748d6da57e724ea772b",
+    "data/standardized/news/article_02.md": "aae4a81b134950d61fd9bdf6f51797d117152fed45a131c52566e5b8f2188204",
+    "data/standardized/news/article_03.md": "5f642cc155d83777121f1b726c04893609b600cba56791d9fde560bf8355102d",
+    "data/standardized/news/article_04.md": "87e1ac9cc2867696d6a94dbc88bc0f269a5dd8ddc1cf74e1b5eebc1fa1c2bfaa",
+    "data/standardized/news/article_05.md": "8f2140ab569a0c4f8ff4d71e10ab188ca73a6d4da74849cef91ea10d7911e441",
+    "data/standardized/news/article_06.md": "3c3c8bf4a0b9545b7811a7ab20563df6b04b9a0dd80abf9cd1d1f66c4181f0fc"
+  }
+}

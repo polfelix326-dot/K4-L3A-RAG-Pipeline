@@ -4,7 +4,7 @@
 
 Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.
 
-Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
+Dữ liệu của nhóm chỉ lấy từ `k4-day8-data.zip` tại gốc repository. Xem [hướng dẫn dữ liệu](docs/DATA_CHECKPOINT.md) để nhập, chuẩn hóa và truy vết nguồn.
 
 ## Sản phẩm phải nộp
 
@@ -30,13 +30,14 @@ cp .env.example .env
 Điền API key cần dùng trong `.env`; không commit file này.
 
 ```bash
-# 1. Thu thập và chuẩn hoá
-python -m src.task1_collect_legal_docs
-python -m src.task2_crawl_news
-python -m src.task3_convert_markdown
+# 1. Nhập ZIP và chuẩn hoá (offline, 3 PDF + 6 JSON)
+python -m src.import_archive
 
 # 2. Index và kiểm tra contract
+# Máy chưa có model: thêm --download-model vào lần chạy Task 4 đầu tiên.
 python -m src.task4_chunking_indexing
+python -m src.task5_semantic_search
+python -m src.task6_lexical_search
 pytest -q
 
 # 3. Chạy sản phẩm
@@ -65,6 +66,7 @@ streamlit run app.py
 ## Tài liệu
 
 - [Module contracts](docs/MODULE_CONTRACTS.md): schema, interface và invariant mà code/test nên tuân theo.
+- [Retrieval checkpoint](docs/RETRIEVAL_CHECKPOINT.md): cấu hình model/chunk, chạy index và kiểm chứng hai đường tìm kiếm.
 - [Step-by-step guide](docs/STEP_BY_STEP.md): thứ tự triển khai và tiêu chí hoàn thành từng bước.
 - [Grading rubric](docs/GRADING_RUBRIC.md): Rubric thang điểm.
 - [Individual report](group_project/ịndividual/INDIVIDUAL_REPORT.md): template báo cáo cá nhân.

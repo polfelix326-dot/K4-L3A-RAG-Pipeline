@@ -1,0 +1,12 @@
+{
+  "title": "Quy-dinh-Hoc-bong-KKHT-UET-2026",
+  "url": "https://uet.vnu.edu.vn/wp-content/uploads/2026/08/Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf",
+  "date_crawled": null,
+  "metadata_note": "URL verified against public PDF by SHA-256; archive crawl date unknown.",
+  "source_verification": "Public PDF SHA-256 equals ZIP landing PDF",
+  "source_verified_on": "2026-09-20",
+  "sha256": "df2cbc51876f7ab3b61a6601a82ec55e9711e17a87cc1c173a854c78b34c2dc8",
+  "source_archive": "k4-day8-data.zip",
+  "archive_sha256": "7238736cdc5fb8ffc58f647c5353ceae0cf90aa52e99f96dbc8b0c6a5f87303b",
+  "archive_member": "data/landing/legal/Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf"
+}
