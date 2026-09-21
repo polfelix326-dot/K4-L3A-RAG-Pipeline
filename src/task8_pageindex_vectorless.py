@@ -14,6 +14,7 @@ import os
 from pathlib import Path
 
 from dotenv import load_dotenv
+from pageindex import PageIndexClient as PageIndex
 
 
 load_dotenv()
@@ -28,7 +29,20 @@ def upload_documents() -> None:
     #
     # Nếu SDK không nhận Markdown, convert sang PDF tạm trước khi upload.
     # Kiểm tra response thật của SDK thay vì đoán tên field.
-    raise NotImplementedError("Implement upload_documents")
+    pageindex = PageIndex(api_key=PAGEINDEX_API_KEY)
+
+    document_ids = []
+    for path in STANDARDIZED_DIR.rglob("*.md"):
+        with open(path, "r", encoding="utf-8") as f:
+            result = pageindex.upload_document(f)
+        document_ids.append(result["id"])
+
+        print(f"Uploaded {path.name} with ID: {result['id']}")
+
+    # Lưu document IDs để sử dụng lại
+    Path("document_ids.txt").write_text("\n".join(document_ids))
+    
+    # raise NotImplementedError("Implement upload_documents")
 
 
 def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
@@ -37,7 +51,13 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
     #
     # Mỗi result cần: id, content, score, metadata, retrieval_method.
     # Nếu API không trả score, có thể gán score giảm dần theo rank.
-    raise NotImplementedError("Implement pageindex_search")
+    pageindex = PageIndex(api_key=PAGEINDEX_API_KEY)
+    document_ids = Path("document_ids.txt").read_text().splitlines()
+    
+    results = pageindex.query(query, document_ids=document_ids)
+    
+    return results
+    # raise NotImplementedError("Implement pageindex_search")
 
 
 if __name__ == "__main__":
