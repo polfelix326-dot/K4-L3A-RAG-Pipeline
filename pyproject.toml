@@ -9,8 +9,11 @@ description = "Day 8 lab for building and evaluating a RAG pipeline"
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
 dependencies = [
+    "beautifulsoup4>=4.12,<5",
+    "markdownify>=1.0,<2",
+    "pdfplumber>=0.11,<0.12",
     "anthropic>=0.40.0,<2",
-    "chromadb>=0.5.0,<2",
+    "chromadb>=1.0.0,<2",
     "crawl4ai==0.9.3",
     "datasets>=4.0.0,<6",
     "fpdf2>=2.7.0,<3",

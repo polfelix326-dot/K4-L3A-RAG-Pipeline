@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Đối tượng và tiêu chí xét, cấp học bổng khuyến khích học tập tại Trường Đại học Công nghệ là gì?",
+    "expected_answer": "Sinh viên đại học hệ chính quy đang trong thời gian đào tạo chuẩn có kết quả học tập, rèn luyện từ loại khá trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng.",
+    "expected_context": "Sinh viên đại học hệ chính quy đang trong thời gian đào tạo chuẩn có kết quả học tập, rèn luyện từ loại khá trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng."
+  },
+  {
+    "question": "Mức học bổng khuyến khích học tập loại khá được quy định như thế nào?",
+    "expected_answer": "Mức học bổng bằng hoặc cao hơn mức trần học phí hiện hành của ngành học mà sinh viên đó phải đóng tại trường đối với sinh viên có điểm trung bình chung học kỳ và điểm rèn luyện đều đạt loại khá trở lên.",
+    "expected_context": "Học bổng loại khá: Mức học bổng bằng hoặc cao hơn mức trần học phí hiện hành của ngành học mà sinh viên đó phải đóng tại trường đối với sinh viên có điểm trung bình chung học kỳ và điểm rèn luyện đều đạt loại khá trở lên."
+  },
+  {
+    "question": "Nguồn kinh phí cấp học bổng khuyến khích học tập tại Trường ĐHCN được trích từ đâu?",
+    "expected_answer": "Học bổng khuyến khích học tập là khoản kinh phí mà sinh viên được xét, cấp từ nguồn học phí nhằm hỗ trợ chi phí sinh hoạt, học tập, nghiên cứu tại Trường ĐHCN.",
+    "expected_context": "Học bổng khuyến khích học tập là khoản kinh phí mà sinh viên được xét, cấp từ nguồn học phí nhằm hỗ trợ chi phí sinh hoạt, học tập, nghiên cứu tại Trường ĐHCN."
+  },
+  {
+    "question": "Sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa, Nhật Bản được hưởng những quyền lợi gì?",
+    "expected_answer": "Sinh viên được miễn phí nhập học và học phí tại Đại học Kanazawa; hỗ trợ đăng ký ký túc xá; có cơ hội đăng ký xét Học bổng JASSO; và được học tập trong môi trường học thuật, văn hóa quốc tế.",
+    "expected_context": "Quyền lợi: Sinh viên/học viên cao học được: Miễn phí phí nhập học và học phí tại Đại học Kanazawa; Hỗ trợ đăng ký ký túc xá trong khuôn viên Đại học Kanazawa; Có cơ hội đăng ký xét Học bổng JASSO nếu đáp ứng điều kiện; Có cơ hội học tập trong môi trường học thuật và văn hóa quốc tế."
+  },
+  {
+    "question": "Mức học bổng JASSO tham khảo dành cho sinh viên tham gia chương trình trao đổi tại Nhật Bản là bao nhiêu?",
+    "expected_answer": "Mức tham khảo học bổng JASSO năm 2026 là 80.000 JPY/tháng.",
+    "expected_context": "Có cơ hội đăng ký xét Học bổng JASSO nếu đáp ứng điều kiện. Mức tham khảo năm 2026 là 80.000 JPY/tháng."
+  },
+  {
+    "question": "Yêu cầu về trình độ tiếng Anh đối với sinh viên đăng ký chương trình trao đổi Đại học Kanazawa là gì?",
+    "expected_answer": "Tiếng Anh đạt một trong các chứng chỉ sau: TOEIC Listening & Reading 700, TOEFL iBT 72, TOEFL PBT 527, IELTS 5.5 hoặc Cambridge English 160 trở lên.",
+    "expected_context": "Tiếng Anh đạt một trong các chứng chỉ sau: TOEIC Listening & Reading 700, TOEFL iBT 72, TOEFL PBT 527, IELTS 5.5 hoặc Cambridge English 160 trở lên (đối với sinh viên/học viên đăng ký các học phần giảng dạy bằng tiếng Anh)."
+  },
+  {
+    "question": "Chỉ tiêu tuyển chọn sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa mỗi năm là bao nhiêu?",
+    "expected_answer": "Chỉ tiêu tối đa là 02 sinh viên hoặc học viên mỗi năm.",
+    "expected_context": "Chỉ tiêu: Tối đa 02 sinh viên/học viên mỗi năm."
+  },
+  {
+    "question": "Những sinh viên nào được miễn chứng chỉ tiếng Anh khi tham dự chương trình trao đổi tại Đại học Kanazawa?",
+    "expected_answer": "Sinh viên được miễn chứng chỉ tiếng Anh nếu đã tốt nghiệp Đại học hoặc Thạc sĩ tại Úc, Canada, New Zealand, Nam Phi, Singapore, Vương quốc Anh, Hoa Kỳ.",
+    "expected_context": "Các sinh viên/học viên sẽ được miễn chứng chỉ tiếng Anh trong trường hợp đã tốt nghiệp Đại học/Thạc sĩ tại một trong các nước sau: Úc, Canada, New Zealand, Nam Phi, Singapore, Vương quốc Anh, Hoa Kỳ."
+  },
+  {
+    "question": "Thời gian học tập của chương trình trao đổi KUEP tại Đại học Kanazawa kéo dài bao lâu?",
+    "expected_answer": "Thời gian học là 01 học kỳ hoặc 02 học kỳ, dự kiến bắt đầu từ tháng 4 năm 2027.",
+    "expected_context": "Thời gian học: 01 học kỳ hoặc 02 học kỳ, dự kiến bắt đầu từ tháng 4 năm 2027."
+  },
+  {
+    "question": "Nghĩa vụ của sinh viên sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa là gì?",
+    "expected_answer": "Sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa, sinh viên/học viên phải trở về tiếp tục học tập tại Trường Đại học Công nghệ.",
+    "expected_context": "Sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa, sinh viên/học viên phải trở về tiếp tục học tập tại Trường Đại học Công nghệ."
+  },
+  {
+    "question": "Điều kiện về điểm trung bình tích lũy để tham dự chương trình trao đổi Đại học Kanazawa là bao nhiêu?",
+    "expected_answer": "Sinh viên phải có điểm trung bình chung tích lũy đạt từ 3.0 trở lên trên thang điểm 4.",
+    "expected_context": "Có điểm trung bình chung tích lũy đạt từ 3.0 trở lên (thang điểm 4)."
+  },
+  {
+    "question": "Hồ sơ đăng ký chương trình trao đổi tại Đại học Kanazawa bao gồm những gì?",
+    "expected_answer": "Hồ sơ gồm: Đơn đăng ký tham dự chương trình; bảng điểm trung bình tiếng Anh có xác nhận; chứng chỉ ngoại ngữ; photo hộ chiếu; giấy chấp thuận tiếp nhận tạm thời (Provisional Acceptance Agreement); minh chứng ngoại khóa, NCKH, giải thưởng nếu có.",
+    "expected_context": "Hồ sơ đăng ký: Đơn đăng ký tham dự chương trình; Bảng điểm trung bình bằng tiếng Anh có xác nhận; Chứng chỉ ngoại ngữ đáp ứng yêu cầu; Photo Hộ chiếu; Giấy chấp thuận tiếp nhận tạm thời; Minh chứng tham gia các hoạt động ngoại khóa, nghiên cứu khoa học, giải thưởng."
+  },
+  {
+    "question": "Sinh viên không được xét cấp học bổng khuyến khích học tập trong trường hợp nào?",
+    "expected_answer": "Sinh viên bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng, hoặc có kết quả học tập/rèn luyện dưới loại khá, hoặc ngoài thời gian đào tạo chuẩn.",
+    "expected_context": "Sinh viên đại học hệ chính quy đang trong thời gian đào tạo chuẩn có kết quả học tập, rèn luyện từ loại khá trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng."
+  },
+  {
+    "question": "Trình độ tiếng Nhật yêu cầu để đăng ký học phần giảng dạy bằng tiếng Nhật tại Đại học Kanazawa là gì?",
+    "expected_answer": "Yêu cầu JLPT trình độ N2 trở lên. Riêng Chương trình Giáo dục tiếng Nhật và Nghiên cứu Văn hóa Nhật Bản phải đạt JLPT N1.",
+    "expected_context": "Tiếng Nhật: JLPT trình độ N2 trở lên (đối với sinh viên/học viên đăng ký các học phần giảng dạy bằng tiếng Nhật). Riêng ứng viên đăng ký Chương trình Giáo dục tiếng Nhật và Nghiên cứu Văn hóa Nhật Bản thuộc Trường Sau đại học về Môi trường Nhân văn và Xã hội phải đạt JLPT N1."
+  },
+  {
+    "question": "Mục đích của việc xét, cấp học bổng khuyến khích học tập tại Trường ĐHCN là gì?",
+    "expected_answer": "Khích lệ động viên sinh viên phấn đấu đạt thành tích cao trong học tập, rèn luyện và NCKH; ưu tiên đầu tư cho sinh viên xuất sắc; thu hút sinh viên giỏi tham gia các chương trình đào tạo của trường.",
+    "expected_context": "Khích lệ, động viên sinh viên phấn đấu đạt thành tích cao trong học tập, rèn luyện và nghiên cứu khoa học. Ưu tiên, đầu tư, tạo điều kiện cho sinh viên đạt kết quả xuất sắc. Khuyến khích, thu hút học sinh, sinh viên giỏi tham gia các chương trình đào tạo của Trường ĐHCN."
+  }
+]

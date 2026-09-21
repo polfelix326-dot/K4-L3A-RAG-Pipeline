@@ -39,6 +39,10 @@ htmlcov/
 data/_tmp_pdf/
 
 # Temp / cache
+chroma_db/
+tmp/verify_public_sources.py
+tmp/pre-zip-only-20260920/
+tmp/pdfs/
 .pytest_cache/
 *.tmp
 *.log

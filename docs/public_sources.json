@@ -1,0 +1,23 @@
+{
+  "1011.pdf": {
+    "url": "https://uet.vnu.edu.vn/wp-content/uploads/2023/03/1011.pdf",
+    "resolved_url": "https://uet.vnu.edu.vn/wp-content/uploads/2023/03/1011.pdf",
+    "sha256": "00d9bb4ca727d9f506a5eeb2dd07d0809b05d2b69e9800efd3afd9bf14812fe0",
+    "verification": "Public PDF SHA-256 equals ZIP landing PDF",
+    "verified_on": "2026-09-20"
+  },
+  "Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf": {
+    "url": "https://uet.vnu.edu.vn/wp-content/uploads/2026/08/Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf",
+    "resolved_url": "https://uet.vnu.edu.vn/wp-content/uploads/2026/08/Quy-dinh-Hoc-bong-KKHT-UET-2026.pdf",
+    "sha256": "df2cbc51876f7ab3b61a6601a82ec55e9711e17a87cc1c173a854c78b34c2dc8",
+    "verification": "Public PDF SHA-256 equals ZIP landing PDF",
+    "verified_on": "2026-09-20"
+  },
+  "Signed.Signed.Signed.2024_10_4_QUY-DINH-VE-HOC-BONG-1.pdf": {
+    "url": "https://uet.vnu.edu.vn/wp-content/uploads/2024/10/Signed.Signed.Signed.2024_10_4_QUY-DINH-VE-HOC-BONG-1.pdf",
+    "resolved_url": "https://uet.vnu.edu.vn/wp-content/uploads/2024/10/Signed.Signed.Signed.2024_10_4_QUY-DINH-VE-HOC-BONG-1.pdf",
+    "sha256": "8c1e1401ab346924f8f078ec5ec73c6a1cc568c5b3f701f6fc4e1b4ba8019b09",
+    "verification": "Public PDF SHA-256 equals ZIP landing PDF",
+    "verified_on": "2026-09-20"
+  }
+}

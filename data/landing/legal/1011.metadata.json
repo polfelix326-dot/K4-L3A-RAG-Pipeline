@@ -1,0 +1,12 @@
+{
+  "title": "1011",
+  "url": "https://uet.vnu.edu.vn/wp-content/uploads/2023/03/1011.pdf",
+  "date_crawled": null,
+  "metadata_note": "URL verified against public PDF by SHA-256; archive crawl date unknown.",
+  "source_verification": "Public PDF SHA-256 equals ZIP landing PDF",
+  "source_verified_on": "2026-09-20",
+  "sha256": "00d9bb4ca727d9f506a5eeb2dd07d0809b05d2b69e9800efd3afd9bf14812fe0",
+  "source_archive": "k4-day8-data.zip",
+  "archive_sha256": "7238736cdc5fb8ffc58f647c5353ceae0cf90aa52e99f96dbc8b0c6a5f87303b",
+  "archive_member": "data/landing/legal/1011.pdf"
+}

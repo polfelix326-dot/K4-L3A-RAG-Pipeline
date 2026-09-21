@@ -1,0 +1,386 @@
+{
+  "summary": {
+    "faithfulness": {
+      "config_a": 0.62,
+      "config_b": 0.6733333333333333,
+      "delta": 0.053333333333333344
+    },
+    "answer_relevance": {
+      "config_a": 0.6333333333333333,
+      "config_b": 0.7,
+      "delta": 0.06666666666666665
+    },
+    "context_recall": {
+      "config_a": 0.62,
+      "config_b": 0.7266666666666667,
+      "delta": 0.10666666666666669
+    },
+    "context_precision": {
+      "config_a": 0.5333333333333333,
+      "config_b": 0.66,
+      "delta": 0.1266666666666667
+    }
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "Đối tượng và tiêu chí xét, cấp học bổng khuyến khích học tập tại Trường Đại học Công nghệ là gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.8
+        },
+        "latency": 23.729068756103516,
+        "answer": "Đối tượng và tiêu chí xét, cấp học bổng khuyến khích học tập tại Trường Đại học Công nghệ bao gồm:\n\n- Đối tượng: Sinh viên đại học hệ chính quy đang trong thời gian đào tạo chuẩn.\n- Tiêu chí: Sinh viên phải có kết quả học tập, rèn luyện từ loại khá trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.97129225730896,
+        "answer": "Đối tượng và tiêu chí xét, cấp học bổng khuyến khích học tập tại Trường Đại học Công nghệ bao gồm sinh viên đại học hệ chính quy đang trong thời gian đào tạo chuẩn, có kết quả học tập, rèn luyện từ loại khá trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét cấp học bổng (Document 1, Document 5)."
+      }
+    },
+    {
+      "id": 2,
+      "question": "Mức học bổng khuyến khích học tập loại khá được quy định như thế nào?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.7860777378082275,
+        "answer": "Mức học bổng khuyến khích học tập loại khá được quy định là bằng hoặc cao hơn mức trần học phí hiện hành của ngành học mà sinh viên đó phải đóng tại trường, áp dụng cho sinh viên có điểm trung bình chung học kỳ và điểm rèn luyện đều đạt loại khá trở lên (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.4329187870025635,
+        "answer": "Mức học bổng khuyến khích học tập loại khá được quy định là bằng hoặc cao hơn mức trần học phí hiện hành của ngành học mà sinh viên đó phải đóng tại trường, áp dụng cho sinh viên có điểm trung bình chung học kỳ và điểm rèn luyện đều đạt loại khá trở lên (Document 1)."
+      }
+    },
+    {
+      "id": 3,
+      "question": "Nguồn kinh phí cấp học bổng khuyến khích học tập tại Trường ĐHCN được trích từ đâu?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.0843870639801025,
+        "answer": "Nguồn kinh phí cấp học bổng khuyến khích học tập tại Trường ĐHCN được trích từ nguồn học phí nhằm hỗ trợ chi phí sinh hoạt, học tập, nghiên cứu tại Trường ĐHCN (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.8,
+          "answer_relevance": 0.9,
+          "context_recall": 1.0,
+          "context_precision": 0.9
+        },
+        "latency": 1.7514863014221191,
+        "answer": "Nguồn kinh phí cấp học bổng khuyến khích học tập tại Trường ĐHCN được bố trí tối thiểu bằng 8% nguồn thu học phí theo chương trình học, ngành học, khóa học trong mỗi học kỳ (Document 4)."
+      }
+    },
+    {
+      "id": 4,
+      "question": "Sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa, Nhật Bản được hưởng những quyền lợi gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.749682903289795,
+        "answer": "Sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa, Nhật Bản được hưởng các quyền lợi sau:\n\n1. Miễn phí phí nhập học và học phí tại Đại học Kanazawa.\n2. Hỗ trợ đăng ký ký túc xá trong khuôn viên Đại học Kanazawa.\n3. Có cơ hội đăng ký xét Học bổng JASSO nếu đáp ứng điều kiện, với mức tham khảo năm 2026 là 80.000 JPY/tháng.\n4. Có cơ hội học tập trong môi trường học thuật và văn hóa quốc tế, giao lưu với sinh viên/học viên và giảng viên tại Đại học Kanazawa (Document 5)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.601710319519043,
+        "answer": "Sinh viên/học viên cao học tham gia chương trình trao đổi tại Đại học Kanazawa, Nhật Bản được hưởng các quyền lợi sau:\n\n1. Miễn phí phí nhập học và học phí tại Đại học Kanazawa.\n2. Hỗ trợ đăng ký ký túc xá trong khuôn viên Đại học Kanazawa.\n3. Có cơ hội đăng ký xét Học bổng JASSO nếu đáp ứng điều kiện, với mức tham khảo năm 2026 là 80.000 JPY/tháng.\n4. Có cơ hội học tập trong môi trường học thuật và văn hóa quốc tế, giao lưu với sinh viên/học viên và giảng viên tại Đại học Kanazawa (Document 4)."
+      }
+    },
+    {
+      "id": 5,
+      "question": "Mức học bổng JASSO tham khảo dành cho sinh viên tham gia chương trình trao đổi tại Nhật Bản là bao nhiêu?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.0337176322937012,
+        "answer": "Mức học bổng JASSO tham khảo dành cho sinh viên tham gia chương trình trao đổi tại Nhật Bản là 80.000 JPY/tháng (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.0700740814208984,
+        "answer": "Mức học bổng JASSO tham khảo dành cho sinh viên tham gia chương trình trao đổi tại Nhật Bản là 80.000 JPY/tháng (Document 1)."
+      }
+    },
+    {
+      "id": 6,
+      "question": "Yêu cầu về trình độ tiếng Anh đối với sinh viên đăng ký chương trình trao đổi Đại học Kanazawa là gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.4,
+          "answer_relevance": 0.5,
+          "context_recall": 0.3,
+          "context_precision": 0.2
+        },
+        "latency": 0.9219305515289307,
+        "answer": "Yêu cầu về trình độ tiếng Anh đối với sinh viên đăng ký chương trình trao đổi Đại học Kanazawa là phải có chứng chỉ ngoại ngữ đáp ứng yêu cầu tham dự chương trình trao đổi của ĐHQGHN và đối tác (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 0.8830697536468506,
+        "answer": "Từ context cung cấp, không có thông tin cụ thể về yêu cầu trình độ tiếng Anh đối với sinh viên đăng ký chương trình trao đổi tại Đại học Kanazawa. Do đó, tôi không thể xác minh yêu cầu này."
+      }
+    },
+    {
+      "id": 7,
+      "question": "Chỉ tiêu tuyển chọn sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa mỗi năm là bao nhiêu?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 0.889441967010498,
+        "answer": "Xin lỗi, nhưng trong các tài liệu đã cung cấp không có thông tin về chỉ tiêu tuyển chọn sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa mỗi năm."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 0.8319461345672607,
+        "answer": "Chỉ tiêu tuyển chọn sinh viên tham gia chương trình trao đổi tại Đại học Kanazawa mỗi năm là tối đa 02 sinh viên/học viên (Document 4)."
+      }
+    },
+    {
+      "id": 8,
+      "question": "Những sinh viên nào được miễn chứng chỉ tiếng Anh khi tham dự chương trình trao đổi tại Đại học Kanazawa?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 1.1847188472747803,
+        "answer": "Từ thông tin được cung cấp, không có chi tiết nào đề cập đến việc miễn chứng chỉ tiếng Anh cho sinh viên tham dự chương trình trao đổi tại Đại học Kanazawa. Do đó, tôi không thể xác minh thông tin này."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 1.1881253719329834,
+        "answer": "Xin lỗi, nhưng trong các tài liệu đã cung cấp không có thông tin về những sinh viên nào được miễn chứng chỉ tiếng Anh khi tham dự chương trình trao đổi tại Đại học Kanazawa."
+      }
+    },
+    {
+      "id": 9,
+      "question": "Thời gian học tập của chương trình trao đổi KUEP tại Đại học Kanazawa kéo dài bao lâu?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 0.9165298938751221,
+        "answer": "Không có thông tin về thời gian học tập của chương trình trao đổi KUEP tại Đại học Kanazawa trong các tài liệu đã cung cấp. Do đó, tôi không thể xác minh câu hỏi này."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 0.9271395206451416,
+        "answer": "Xin lỗi, nhưng thông tin về thời gian học tập của chương trình trao đổi KUEP tại Đại học Kanazawa không được cung cấp trong các tài liệu đã cho."
+      }
+    },
+    {
+      "id": 10,
+      "question": "Nghĩa vụ của sinh viên sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa là gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.5
+        },
+        "latency": 1.136282205581665,
+        "answer": "Nghĩa vụ của sinh viên sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa là phải trở về tiếp tục học tập tại Trường Đại học Công nghệ. (Document 5)"
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.5,
+          "answer_relevance": 0.7,
+          "context_recall": 1.0,
+          "context_precision": 0.8
+        },
+        "latency": 0.9495203495025635,
+        "answer": "Nghĩa vụ của sinh viên sau khi hoàn thành chương trình trao đổi tại Đại học Kanazawa là phải tuân thủ các quy định học thuật và kỷ luật theo quy định của Đại học Kanazawa và của Nhà trường (Document 2)."
+      }
+    },
+    {
+      "id": 11,
+      "question": "Điều kiện về điểm trung bình tích lũy để tham dự chương trình trao đổi Đại học Kanazawa là bao nhiêu?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 0.9148039817810059,
+        "answer": "Điều kiện về điểm trung bình tích lũy để tham dự chương trình trao đổi Đại học Kanazawa là đạt từ 3.0 trở lên (thang điểm 4) (Document 5)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 0.9366598129272461,
+        "answer": "Điều kiện về điểm trung bình tích lũy để tham dự chương trình trao đổi Đại học Kanazawa là đạt từ 3.0 trở lên (thang điểm 4) (Document 5)."
+      }
+    },
+    {
+      "id": 12,
+      "question": "Hồ sơ đăng ký chương trình trao đổi tại Đại học Kanazawa bao gồm những gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.9,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.3117609024047852,
+        "answer": "Hồ sơ đăng ký chương trình trao đổi tại Đại học Kanazawa bao gồm các tài liệu sau:\n\n1. Đơn đăng ký tham dự chương trình (theo mẫu);\n2. Bảng điểm trung bình bằng tiếng Anh có xác nhận của đơn vị đào tạo (đối với người học sau đại học, nộp bảng điểm của cả bậc đại học và sau đại học);\n3. Chứng chỉ ngoại ngữ đáp ứng yêu cầu tham dự chương trình trao đổi của ĐHQGHN và đối tác;\n4. Photo Hộ chiếu (Document 1)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.8,
+          "answer_relevance": 0.9,
+          "context_recall": 0.9,
+          "context_precision": 0.7
+        },
+        "latency": 1.4050796031951904,
+        "answer": "Hồ sơ đăng ký chương trình trao đổi tại Đại học Kanazawa bao gồm các tài liệu sau:\n\n1. Đơn đăng ký tham dự chương trình (theo mẫu).\n2. Bảng điểm trung bình bằng tiếng Anh có xác nhận của đơn vị đào tạo (đối với người học sau đại học, nộp bảng điểm của cả bậc đại học và sau đại học).\n3. Chứng chỉ ngoại ngữ đáp ứng yêu cầu tham dự chương trình trao đổi của ĐHQGHN và đối tác.\n4. Photo Hộ chiếu (Document 1)."
+      }
+    },
+    {
+      "id": 13,
+      "question": "Sinh viên không được xét cấp học bổng khuyến khích học tập trong trường hợp nào?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 1.0817270278930664,
+        "answer": "Từ các tài liệu đã cung cấp, không có thông tin cụ thể nào nêu rõ trường hợp sinh viên không được xét cấp học bổng khuyến khích học tập. Do đó, tôi không thể xác minh câu hỏi này."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 1.0726561546325684,
+        "answer": "Từ các tài liệu đã cung cấp, không có thông tin cụ thể nào nêu rõ trường hợp sinh viên không được xét cấp học bổng khuyến khích học tập. Do đó, tôi không thể xác minh câu hỏi này."
+      }
+    },
+    {
+      "id": 14,
+      "question": "Trình độ tiếng Nhật yêu cầu để đăng ký học phần giảng dạy bằng tiếng Nhật tại Đại học Kanazawa là gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        },
+        "latency": 0.8858058452606201,
+        "answer": "Xin lỗi, nhưng trong các tài liệu đã cung cấp không có thông tin về trình độ tiếng Nhật yêu cầu để đăng ký học phần giảng dạy bằng tiếng Nhật tại Đại học Kanazawa."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0
+        },
+        "latency": 1.0580928325653076,
+        "answer": "Trình độ tiếng Nhật yêu cầu để đăng ký học phần giảng dạy bằng tiếng Nhật tại Đại học Kanazawa là JLPT trình độ N2 trở lên. Riêng ứng viên đăng ký Chương trình Giáo dục tiếng Nhật và Nghiên cứu Văn hóa Nhật Bản thuộc Trường Sau đại học về Môi trường Nhân văn và Xã hội phải đạt JLPT N1 (Document 5)."
+      }
+    },
+    {
+      "id": 15,
+      "question": "Mục đích của việc xét, cấp học bổng khuyến khích học tập tại Trường ĐHCN là gì?",
+      "config_a": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.5
+        },
+        "latency": 1.366506576538086,
+        "answer": "Mục đích của việc xét, cấp học bổng khuyến khích học tập tại Trường ĐHCN là khích lệ, động viên sinh viên phấn đấu đạt thành tích cao trong học tập, rèn luyện và nghiên cứu khoa học, cũng như ưu tiên, đầu tư, tạo điều kiện cho sinh viên đạt kết quả học tập, rèn luyện, nghiên cứu xuất sắc (Document 5)."
+      },
+      "config_b": {
+        "scores": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.5
+        },
+        "latency": 1.5179975032806396,
+        "answer": "Mục đích của việc xét, cấp học bổng khuyến khích học tập tại Trường ĐHCN là khích lệ, động viên sinh viên phấn đấu đạt thành tích cao trong học tập, rèn luyện và nghiên cứu khoa học, cũng như ưu tiên, đầu tư, tạo điều kiện cho sinh viên thuộc diện được xét, cấp học bổng đạt kết quả học tập, rèn luyện, nghiên cứu xuất sắc (Document 2)."
+      }
+    }
+  ]
+}
