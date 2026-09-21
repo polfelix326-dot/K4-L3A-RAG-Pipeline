@@ -38,4 +38,11 @@ def rerank_rrf(
 
 
 if __name__ == "__main__":
-    print("Implement rerank_rrf, then run contract tests.")
+    from src.task5_semantic_search import semantic_search
+    from src.task6_lexical_search import lexical_search
+
+    query = "điều kiện học bổng khuyến khích học tập"
+    dense_results = semantic_search(query, top_k=10)
+    lexical_results = lexical_search(query, top_k=10)
+    for result in rerank_rrf([dense_results, lexical_results], top_k=5):
+        print(result["id"], round(result["score"], 4), result["retrieval_method"])
