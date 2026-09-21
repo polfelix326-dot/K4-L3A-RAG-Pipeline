@@ -1,19 +1,49 @@
----
-title: "Chương trình trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội"
-url: "https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/"
-source_page: "https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/"
-source_file: "data/landing/news/article_01.json"
-source_sha256: "a178b9c28d2cf52957ff0adc02666df8fab95a6d96a7c6e5e54f3acfa05de73d"
-date_crawled: "2026-09-20T12:00:52.587345"
-source_archive: "k4-day8-data.zip"
-archive_sha256: "7238736cdc5fb8ffc58f647c5353ceae0cf90aa52e99f96dbc8b0c6a5f87303b"
-archive_member: "data/landing/news/article_01.json"
-content_start_line: 40
-content_end_line: 78
-normalization: "archive article body; navigation/footer removed; whitespace normalized"
+# Chương trình trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội
+
+**Source:** https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/
+
+**Crawled:** 2026-09-20T12:00:52.587345
+
 ---
 
-# Chương trình trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội
+[Bỏ qua đến nội dung chính](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/#main-content)
+Trở lại
+  * [GIỚI THIỆU](https://uet.vnu.edu.vn/gioi-thieu/)
+  * [ĐÀO TẠO](https://uet.vnu.edu.vn/dao-tao/)
+  * [KHOA HỌC CÔNG NGHỆ](https://uet.vnu.edu.vn/nghien-cuu-doi-moi/)
+  * [TUYỂN SINH](https://uet.vnu.edu.vn/tuyen-sinh/)
+  * [TIN TỨC](https://uet.vnu.edu.vn/tin-tuc/)
+  * [CÔNG TÁC NGƯỜI HỌC](https://uet.vnu.edu.vn/doi-song-sinh-vien/)
+
+
+Liên hệ chúng tôi để được tư vấn 
+033.4924.224 
+uet@vnu.edu.vn 
+[https://vnu.edu.vn](https://vnu.edu.vn/)
+[VI](https://uet.vnu.edu.vn/) [EN](https://uet.vnu.edu.vn/en/) Tìm kiếm cho:
+[![Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/01/Logo1.png)](https://uet.vnu.edu.vn/ "Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội - ")
+  * [GIỚI THIỆU](https://uet.vnu.edu.vn/gioi-thieu/)
+  * [ĐÀO TẠO](https://uet.vnu.edu.vn/dao-tao/)
+  * [KHOA HỌC CÔNG NGHỆ](https://uet.vnu.edu.vn/nghien-cuu-doi-moi/)
+  * [TUYỂN SINH](https://uet.vnu.edu.vn/tuyen-sinh/)
+  * [TIN TỨC](https://uet.vnu.edu.vn/tin-tuc/)
+  * [CÔNG TÁC NGƯỜI HỌC](https://uet.vnu.edu.vn/doi-song-sinh-vien/)
+
+
+## Giao lưu, trao đổi sinh viên
+  * [Trang chủ](https://uet.vnu.edu.vn/)
+  * [Sinh viên](https://uet.vnu.edu.vn/category/sinh-vien/)
+  * [Giao lưu, trao đổi sinh viên](https://uet.vnu.edu.vn/category/sinh-vien/giao-luu-trao-doi-sinh-vien/)
+  * [Chương trình trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/)
+
+
+![](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)
+# Chương trình trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản
+  * [ Tuyết Nga ](https://uet.vnu.edu.vn/author/tuyetnga/)
+  * Tháng 9 18, 2026 
+  * [Giao lưu, trao đổi sinh viên](https://uet.vnu.edu.vn/category/sinh-vien/giao-luu-trao-doi-sinh-vien/), [Thông báo người học](https://uet.vnu.edu.vn/category/sinh-vien/thong-bao-nguoi-hoc/)
+  * Lượt xem: 79
+
 
 Ngày 17/09/2026, Nhà trường nhận được Thông báo số 5000/ĐHQGHN-HT&PT của tại học Quốc gia Hà Nội thông báo về chương trình “Trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản”. Thông tin về chương trình như sau:
 **1. Tên chương trình:** Chương trình trao đổi sinh viên/ học viên Kanazawa University Exchange Program (KUEP) kỳ mùa Xuân năm 2027.
@@ -54,3 +84,89 @@ o Tiếng Anh đạt một trong các chứng chỉ sau: TOEIC Listening & Readi
 Người học đọc kỹ thông tin, nếu có đủ điều kiện và có nguyện vọng đăng ký thì chuẩn bị hồ sơ theo yêu cầu. Hồ sơ được chuẩn bị dưới dạng hồ sơ điện tử, trong đó các tài liệu thành từng file PDF theo đúng thứ tự các tài liệu theo yêu cầu. Người học lưu các thông tin theo mẫu: *Tên sinh viên_Tên file*. Ví dụ: “NguyenHaLinh_Academic Transcript” và gửi vào email huongbtt@vnu.edu.vn trước **16h, thứ Hai, ngày 21/09/2026**.
 Ngoài ra, khi người học được lựa chọn tham gia chương trình Nhà trường sẽ yêu cầu gửi hồ sơ giấy. Hồ sơ cần được đựng trong túi có kích thước 25cm x 43cm, mặt ngoài túi hồ sơ ghi đầy đủ các thông tin cá nhân và ghi rõ “Trao đổi sinh viên tại Đại học Kanazawa, Nhật Bản”. Người học cần chuẩn bị trước hồ sơ để nộp ngay khi có yêu cầu.
 Trân trọng thông báo!
+[ ![hình đại diện tác giả](https://secure.gravatar.com/avatar/765ff14c5b7a452e1ee32e3f4d14833f4f69dce29b44f76b11bc3dd0930520a3?s=110&d=mm&r=g) ](https://uet.vnu.edu.vn/author/tuyetnga/)
+[ Tuyết Nga ](https://uet.vnu.edu.vn/author/tuyetnga/)
+[Bài trước](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/)
+#####  [Chương trình trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/)
+18/09/2026 
+### Bài viết liên quan
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/ "Chương trình trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc")
+##### [Chương trình trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/)
+18/09/2026 
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-mua-xuan-nam-2027-tai-dai-hoc-ha-mon-trung-quoc/ "Chương trình trao đổi kỳ mùa Xuân  năm 2027 tại Đại học Hạ Môn, Trung Quốc")
+##### [Chương trình trao đổi kỳ mùa Xuân năm 2027 tại Đại học Hạ Môn, Trung Quốc](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-mua-xuan-nam-2027-tai-dai-hoc-ha-mon-trung-quoc/)
+18/09/2026 
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-bunka-nhat-ban/ "Chương trình trao đổi sinh viên tại Đại học BunKa, Nhật Bản")
+##### [Chương trình trao đổi sinh viên tại Đại học BunKa, Nhật Bản](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-bunka-nhat-ban/)
+18/09/2026 
+Tìm kiếm cho:
+  * [Thông báo của trường](https://uet.vnu.edu.vn/category/sinh-vien/thu-tuc-hanh-chinh/)
+  * [Quy chế, quy định](https://uet.vnu.edu.vn/category/sinh-vien/quy-dinh-quy-che/)
+  * [Gương mặt sinh viên](https://uet.vnu.edu.vn/category/sinh-vien/guong-mat-sinh-vien/)
+  * [Các câu lạc bộ sinh viên](https://uet.vnu.edu.vn/category/sinh-vien)
+  * [Đoàn Thanh niên – Hội SV](https://tuoitrecongnghe.uet.vnu.edu.vn/)
+  * [Cổng thông tin việc làm](https://vieclam.uet.vnu.edu.vn/)
+  * [Kí túc xá và giảng đường](https://css.vnu.edu.vn/)
+
+
+### Bài viết liên quan
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/ "Chương trình trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc")
+##### [Chương trình trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/)
+Ngày 16/09/2026, Nhà trường nhận được Thông báo số 4985/ĐHQGHN-HT&PT của tại học Quốc gia Hà Nội thông báo về chương trình “Trao đổi kỳ Xuân năm 2027 tại Đại học Thanh Hoa, Trung Quốc”. Thông tin về chương trình … 
+[ Xem thêm ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-xuan-nam-2027-tai-dai-hoc-thanh-hoa-trung-quoc/)
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-mua-xuan-nam-2027-tai-dai-hoc-ha-mon-trung-quoc/ "Chương trình trao đổi kỳ mùa Xuân  năm 2027 tại Đại học Hạ Môn, Trung Quốc")
+##### [Chương trình trao đổi kỳ mùa Xuân năm 2027 tại Đại học Hạ Môn, Trung Quốc](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-mua-xuan-nam-2027-tai-dai-hoc-ha-mon-trung-quoc/)
+Ngày 16/09/2026, Nhà trường nhận được Thông báo số 4985/ĐHQGHN-HT&PT của tại học Quốc gia Hà Nội thông báo về chương trình “Trao đổi sinh viên tại Đại học Bunka, Nhật Bản”. Thông tin về chương trình như sau: 1. … 
+[ Xem thêm ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-ky-mua-xuan-nam-2027-tai-dai-hoc-ha-mon-trung-quoc/)
+[ ![GetArticleImage-1](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg) ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-bunka-nhat-ban/ "Chương trình trao đổi sinh viên tại Đại học BunKa, Nhật Bản")
+##### [Chương trình trao đổi sinh viên tại Đại học BunKa, Nhật Bản](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-bunka-nhat-ban/)
+Ngày 16/09/2026, Nhà trường nhận được Thông báo số 4984/ĐHQGHN-HT&PT của tại học Quốc gia Hà Nội thông báo về chương trình “Trao đổi sinh viên tại Đại học Bunka, Nhật Bản”. Thông tin về chương trình như sau: 1. … 
+[ Xem thêm ](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-bunka-nhat-ban/)
+![](https://2679558515.e.cdneverest.net/uet.edu.vn/2026/02/Logo2.png)
+  * Nhà UET2, Khu Đô thị Đại học Quốc gia Hà Nội tại Hòa Lạc, Xã Hòa Lạc, Thành phố Hà Nội.
+  * uet@vnu.edu.vn
+  * 024.37547.461
+
+
+[ Facebook ](https://www.facebook.com/UET.VNUH) [ Linkedin ](https://www.linkedin.com/school/72990365) [ Tiktok ](https://www.tiktok.com/@uet.vnu.edu.vn) [ Youtube ](https://www.youtube.com/@vnu-uet)
+## Thông tin
+  * [Hồ sơ năng lực](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/)
+  * [Liên hệ hợp tác](https://uet.vnu.edu.vn/lien-he/)
+  * [Chiến lược phát triển](https://uet.vnu.edu.vn/chien-luoc-phat-trien/)
+  * [Chuyên san CNTT & TT](https://jcsce.vnu.edu.vn/index.php/jcsce)
+  * [Đối tác](https://uet.vnu.edu.vn/category/khoa-hoc-cong-nghe/hop-tac/)
+
+
+  * [Hồ sơ năng lực](https://uet.vnu.edu.vn/chuong-trinh-trao-doi-sinh-vien-tai-dai-hoc-kanazawa-nhat-ban-3/)
+  * [Liên hệ hợp tác](https://uet.vnu.edu.vn/lien-he/)
+  * [Chiến lược phát triển](https://uet.vnu.edu.vn/chien-luoc-phat-trien/)
+  * [Chuyên san CNTT & TT](https://jcsce.vnu.edu.vn/index.php/jcsce)
+  * [Đối tác](https://uet.vnu.edu.vn/category/khoa-hoc-cong-nghe/hop-tac/)
+
+
+## Đào tạo
+  * [Công khai Cơ sở Giáo dục](https://qac.uet.vnu.edu.vn/bai-viet/cong-khai-csgd)
+  * [Đảm bảo chất lượng](https://qac.uet.vnu.edu.vn/)
+  * [Học liệu số](https://lic.vnu.edu.vn/)
+  * [Ứng dụng Công nghệ thông tin](https://uet.vnu.edu.vn/cac-ung-dung-cong-nghe-thong-tin-trong-quan-ly/)
+
+
+  * [Công khai Cơ sở Giáo dục](https://qac.uet.vnu.edu.vn/bai-viet/cong-khai-csgd)
+  * [Đảm bảo chất lượng](https://qac.uet.vnu.edu.vn/)
+  * [Học liệu số](https://lic.vnu.edu.vn/)
+  * [Ứng dụng Công nghệ thông tin](https://uet.vnu.edu.vn/cac-ung-dung-cong-nghe-thong-tin-trong-quan-ly/)
+
+
+## Tuyển sinh
+  * [Thông tin tuyển sinh](https://uet.vnu.edu.vn/tuyen-sinh/)
+  * [Điểm chuẩn đầu vào](https://tuyensinh.uet.vnu.edu.vn/ban-nen-biet/thong-bao-nguong-dau-vao-va-quy-doi-diem-trong-xet-tuyen-dhcq-nam-2025/)
+  * [Tư vấn tuyển sinh](https://www.facebook.com/groups/uet.tvts/)
+
+
+  * [Thông tin tuyển sinh](https://uet.vnu.edu.vn/tuyen-sinh/)
+  * [Điểm chuẩn đầu vào](https://tuyensinh.uet.vnu.edu.vn/ban-nen-biet/thong-bao-nguong-dau-vao-va-quy-doi-diem-trong-xet-tuyen-dhcq-nam-2025/)
+  * [Tư vấn tuyển sinh](https://www.facebook.com/groups/uet.tvts/)
+
+
+## Copyright 2026 Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội - All right reserved
+↑

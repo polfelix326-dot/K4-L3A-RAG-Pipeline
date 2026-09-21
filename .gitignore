@@ -48,6 +48,7 @@ tmp/pdfs/
 *.log
 pageindex_doc_ids.json
 pageindex_pdfs/
+chroma_db/
 
 # Jupyter
 .ipynb_checkpoints/

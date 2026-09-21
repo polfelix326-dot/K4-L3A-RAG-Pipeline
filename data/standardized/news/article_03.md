@@ -1,20 +1,83 @@
----
-title: "Đại hội đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030: Đổi mới sáng tạo - Trách nhiệm quốc gia - Phát triển đột phá - Trung tâm Hỗ trợ sinh viên - Đại học Quốc gia Hà Nội"
-url: "https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/"
-source_page: "https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/"
-source_file: "data/landing/news/article_03.json"
-source_sha256: "9ca976087afd38965c9a9ba769e5732b8767fca5d3718d9fdf376b4328247430"
-date_crawled: "2026-09-20T12:00:58.064550"
-source_archive: "k4-day8-data.zip"
-archive_sha256: "7238736cdc5fb8ffc58f647c5353ceae0cf90aa52e99f96dbc8b0c6a5f87303b"
-archive_member: "data/landing/news/article_03.json"
-content_start_line: 73
-content_end_line: 195
-normalization: "archive article body; navigation/footer removed; whitespace normalized"
----
-
 # Đại hội đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030: Đổi mới sáng tạo - Trách nhiệm quốc gia - Phát triển đột phá - Trung tâm Hỗ trợ sinh viên - Đại học Quốc gia Hà Nội
 
+**Source:** https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/
+
+**Crawled:** 2026-09-20T12:00:58.064550
+
+---
+
+[Skip to content](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/#main)
+  *     * Thời gian làm việc: T2 đến CN (07:30 - 18:00)
+  * [](http://url "Follow on Facebook")[](http://url "Follow on Instagram")[](http://url "Follow on Twitter")
+
+
+  * 
+
+[ ![Trung tâm Hỗ trợ sinh viên – Đại học Quốc gia Hà Nội](https://css.vnu.edu.vn/wp-content/uploads/2024/12/ttt22.png)![Trung tâm Hỗ trợ sinh viên – Đại học Quốc gia Hà Nội](https://css.vnu.edu.vn/wp-content/uploads/2024/12/ttt22.png)](https://css.vnu.edu.vn/ "Trung tâm Hỗ trợ sinh viên – Đại học Quốc gia Hà Nội")
+  * [ ](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/)
+
+
+  * [Giới thiệu](https://css.vnu.edu.vn/gioi-thieu/)
+    * [Lịch sử hình thành](https://css.vnu.edu.vn/gioi-thieu/lich-su-hinh-thanh/)
+    * [Sứ mệnh, tầm nhìn](https://css.vnu.edu.vn/su-menh-tam-nhin/)
+    * [Sơ đồ tổ chức](https://css.vnu.edu.vn/so-do-to-chuc-trung-tam-ho-tro-sinh-vien/)
+    * [Chiến lược phát triển](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/)
+    * [Chức năng nhiệm vụ](https://css.vnu.edu.vn/chuc-nang-nhiem-vu/)
+    * [Công tác cán bộ](https://css.vnu.edu.vn/cong-tac-can-bo/)
+    * [Cơ cấu tổ chức](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/)
+  * [Sinh viên](https://css.vnu.edu.vn/hd-sinh-vien/)
+  * [Ký túc xá](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Thông tin phòng ở](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Các biểu mẫu của KTX](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Tham quan KTX online](https://css.vnu.edu.vn/ky-tuc-xa/)
+  * [Tin tức](https://css.vnu.edu.vn/tin-tuc/)
+    * [Hướng dẫn](https://css.vnu.edu.vn/tin-tuc/huong-dan/)
+    * [Lao động & hướng nghiệp](https://css.vnu.edu.vn/tin-tuc/lao-dong-huong-nghiep/)
+    * [Thông báo](https://css.vnu.edu.vn/phong-khoa/)
+      * [Phòng TC – HC](https://css.vnu.edu.vn/phong-khoa/phong-tc-hc/)
+      * [Phòng TC – KT](https://css.vnu.edu.vn/phong-khoa/phong-tc-kt/)
+
+
+  * [Thông báo](https://css.vnu.edu.vn/thong-bao/)
+  * [Việc làm](https://css.vnu.edu.vn/viec-lam/)
+    * [Thông tin việc làm](https://css.vnu.edu.vn/viec-lam/)
+    * [Nhà tuyển dụng](https://css.vnu.edu.vn/viec-lam/)
+    * [Kết nối](https://css.vnu.edu.vn/viec-lam/)
+  * [Đoàn thể](https://css.vnu.edu.vn/dang-doan-the/)
+  * [Liên hệ](https://css.vnu.edu.vn/lien-he/)
+
+
+  * [](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/)
+    * 
+
+######  [Đảng - Đoàn thể](https://css.vnu.edu.vn/dang-doan-the/), [Tin tức](https://css.vnu.edu.vn/tin-tuc/)
+[Trang chủ](https://css.vnu.edu.vn/) » [Tin tức](https://css.vnu.edu.vn/tin-tuc/) » Đại hội đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030: Đổi mới sáng tạo – Trách nhiệm quốc gia – Phát triển đột phá
+Danh sách chuyên mục
+  * [Chiến lược phát triển](https://css.vnu.edu.vn/gioi-thieu/chien-luoc-phat-trien/)
+  * [Chức năng nhiệm vụ](https://css.vnu.edu.vn/gioi-thieu/chuc-nang-nhiem-vu/)
+  * [Công tác cán bộ](https://css.vnu.edu.vn/gioi-thieu/cong-tac-can-bo/)
+  * [Dự toán ngân sách nhà nước](https://css.vnu.edu.vn/thong-bao/du-toan-ngan-sach-nha-nuoc/)
+  * [Đảng – Đoàn thể](https://css.vnu.edu.vn/dang-doan-the/)
+  * [Giới thiệu](https://css.vnu.edu.vn/gioi-thieu/)
+  * [Ký túc xá](https://css.vnu.edu.vn/ky-tuc-xa/)
+  * [Lao động & hướng nghiệp](https://css.vnu.edu.vn/tin-tuc/lao-dong-huong-nghiep/)
+  * [Lịch sử hình thành](https://css.vnu.edu.vn/gioi-thieu/lich-su-hinh-thanh-gioi-thieu/)
+  * [Sinh viên](https://css.vnu.edu.vn/hd-sinh-vien/)
+  * [Sứ mệnh – Tầm nhìn](https://css.vnu.edu.vn/gioi-thieu/su-menh-tam-nhin/)
+  * [Thông báo](https://css.vnu.edu.vn/thong-bao/)
+  * [Tin tức](https://css.vnu.edu.vn/tin-tuc/)
+  * [Việc làm](https://css.vnu.edu.vn/viec-lam/)
+  * [Y tế – sức khỏe – đời sống](https://css.vnu.edu.vn/tin-tuc/y-te-suc-khoe-doi-song/)
+
+Bài viết mới nhất
+  * [Điểm chuẩn (điểm trúng tuyển) đại học chính quy năm 2026](https://css.vnu.edu.vn/diem-chuan-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2026/ "Điểm chuẩn \(điểm trúng tuyển\) đại học chính quy năm 2026") [](https://css.vnu.edu.vn/diem-chuan-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2026/#respond)
+  * [TRUNG TÂM HỖ TRỢ SINH VIÊN ĐHQGHN TRI ÂN CÁC ANH HÙNG LIỆT SĨ, THƯƠNG BINH, BỆNH BINH VÀ NGƯỜI CÓ CÔNG](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-tri-an-cac-anh-hung-liet-si-thuong-binh-benh-binh-va-nguoi-co-cong/ "TRUNG TÂM HỖ TRỢ SINH VIÊN ĐHQGHN TRI ÂN CÁC ANH HÙNG LIỆT SĨ, THƯƠNG BINH, BỆNH BINH VÀ NGƯỜI CÓ CÔNG") [](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-tri-an-cac-anh-hung-liet-si-thuong-binh-benh-binh-va-nguoi-co-cong/#respond)
+  * [Thông báo kết quả xét tuyển hợp đồng lao động năm 2026](https://css.vnu.edu.vn/thong-bao-ket-qua-xet-tuyen-hop-dong-lao-dong-nam-2026/ "Thông báo kết quả xét tuyển hợp đồng lao động năm 2026") [](https://css.vnu.edu.vn/thong-bao-ket-qua-xet-tuyen-hop-dong-lao-dong-nam-2026/#respond)
+  * [TRUNG TÂM HỖ TRỢ SINH VIÊN TIẾP NHẬN CÔNG TRÌNH NHÀ D1, D7, D8, SẴN SÀNG CÁC ĐIỀU KIỆN PHỤC VỤ SINH VIÊN TẠI HÒA LẠC](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-tiep-nhan-cong-trinh-nha-d1-d7-d8-san-sang-cac-dieu-kien-phuc-vu-sinh-vien-tai-hoa-lac/ "TRUNG TÂM HỖ TRỢ SINH VIÊN TIẾP NHẬN CÔNG TRÌNH NHÀ D1, D7, D8, SẴN SÀNG CÁC ĐIỀU KIỆN PHỤC VỤ SINH VIÊN TẠI HÒA LẠC") [](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-tiep-nhan-cong-trinh-nha-d1-d7-d8-san-sang-cac-dieu-kien-phuc-vu-sinh-vien-tai-hoa-lac/#respond)
+  * [Công bố công khai minh bạch Tình hình thực hiện dự toán ngân sách quý II và 6 tháng đầu năm 2026](https://css.vnu.edu.vn/cong-bo-cong-khai-minh-bach-tinh-hinh-thuc-hien-du-toan-ngan-sach-quy-ii-va-6-thang-dau-nam-2026/ "Công bố công khai minh bạch Tình hình thực hiện dự toán ngân sách quý II và 6 tháng đầu năm 2026") [](https://css.vnu.edu.vn/cong-bo-cong-khai-minh-bach-tinh-hinh-thuc-hien-du-toan-ngan-sach-quy-ii-va-6-thang-dau-nam-2026/#respond)
+
+[![](https://css.vnu.edu.vn/wp-content/uploads/2024/12/huong-dan-dang-ky-noi-tru.jpg)](http://dangkynoitru.css.vnu.edu.vn/)
+# Đại hội đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030: Đổi mới sáng tạo – Trách nhiệm quốc gia – Phát triển đột phá
 Posted on [21/07/2025](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/) by [Admin CSS](https://css.vnu.edu.vn/author/admin/)
 ## Đây là phương châm hành động của Đảng bộ ĐHQGHN tại Đại hội đại biểu Đảng bộ lần thứ VII, nhiệm kỳ 2025-2030, diễn ra trong hai ngày 17 và 18/7/2025 tại Khu Đô thị đại học Hòa Lạc, không gian phát triển mới của ĐHQGHN.
 Với phương châm này, Đảng bộ ĐHQGHN khẳng định quyết tâm cao, nỗ lực lớn, tận dụng tốt những cơ hội và thuận lợi, huy động và sử dụng hiệu quả mọi nguồn lực để nâng cao chất lượng, hiệu quả mọi hoạt động, gia tăng số lượng, chất lượng các sản phẩm đào tạo, khoa học công nghệ và đổi mới sáng tạo, từ đó là hạt nhân tiên phong dẫn dắt ĐHQGHN phát triển thành đại học đổi mới sáng tạo, thuộc nhóm các đại học hàng đầu thế giới, đóng góp quan trọng vào sự phát triển đất nước trong kỷ nguyên mới.  
@@ -137,4 +200,103 @@ Thay mặt Ban Chấp hành mới, Bí thư Đảng ủy ĐHQGHN Lê Quân khẳ
 | Đoàn học sinh tiêu biểu của Trường Trung học phổ thông Khoa học Giáo dục thuộc Trường ĐH Giáo dục đại diện cho hơn 60 nghìn học sinh, sinh viên của ĐHQGHN với niềm tin và lòng biết ơn sâu sắc mong muốn gửi tới Đại hội những lời chúc tốt đẹp  |  
  |  
 | Trong nhiệm kỳ 2020-2025, công tác xây dựng, kiện toàn, nâng cao chất lượng tổ chức cơ sở đảng và đảng viên được chú trọng, kết quả đánh giá, xếp loại ngày càng thực chất hơn, với tỷ lệ chi bộ “Hoàn thành tốt nhiệm vụ” trung bình hàng năm đạt trên 97%; đảng viên “Hoàn thành tốt nhiệm vụ” trở lên đạt 98%/năm. Tính đến tháng 6/2025, toàn Đảng bộ ĐHQGHN có 1.156 đảng viên được kết nạp, trong đó có 674 đảng viên là sinh viên và 20 đảng viên là học sinh, vượt hơn 02 lần chỉ tiêu Đại hội VI. Trong bối cảnh thực hiện Nghị quyết số 18-NQ/TW của Trung ương, ĐHQGHN tổ chức sắp xếp theo hướng tinh gọn, hiệu năng, hiệu lực, hiệu quả, giảm từ 36 xuống 25 đầu mối, đạt được sự đồng thuận cao và giữ vững khối đoàn kết trong toàn Đảng bộ. Đồng thời, đẩy mạnh cơ chế tự chủ và tái cấu trúc bộ máy theo hướng tinh gọn gắn với với nâng cấp, phát triển một số đơn vị theo lộ trình để hoàn thiện cơ cấu đa ngành, đa lĩnh vực, trong đó đặc biệt chú trọng phát triển năng lực đổi mới sáng tạo. Hệ thống chia sẻ, tích hợp và kho dữ liệu được chuẩn hóa, đồng bộ trong toàn ĐHQGHN, tuân thủ Kiến trúc đại học số. Đến cuối năm 2024, 95% học liệu được số hóa; dữ liệu cán bộ, sinh viên số hóa đạt 100%; 20% môn học mỗi chương trình áp dụng giảng dạy trực tuyến, hoàn thành chỉ tiêu Đại hội VI. Quy mô đào tạo đại học của ĐHQGHN hiện nay là hơn 60.000 người học, vượt 26,5% so với chỉ tiêu đề ra. Các chương trình đào tạo được điều chỉnh linh hoạt nhằm đáp ứng yêu cầu cho cung ứng nguồn nhân lực chất lượng cao phát triển kinh tế – xã hội. Trong đó, cơ cấu ngành, lĩnh vực được điều chỉnh theo hướng tăng khối ngành kỹ thuật công nghệ, khoa học sức khỏe và nghệ thuật sáng tạo số (đạt 30% tổng quy mô đào tạo). Năm học 2024-2025 đạt 40%, từ năm 2026, hướng đến mục tiêu 65%. Đội ngũ cán bộ khoa học tiếp tục gia tăng, trong tổng số 5.291 cán bộ, có 2.878 cán bộ khoa học; tỷ lệ giảng viên có trình độ tiến sĩ đạt 67,3%; tỷ lệ giảng viên có chức danh giáo sư, phó giáo sư đạt 21%. Trong nhiệm kỳ 2020-2025, tổng số bài báo khoa học được công bố trên hệ thống ISI/SCOPUS là 9.751 bài, nhiều hơn 2,7 lần so với nhiệm kỳ trước, tỷ lệ công bố khoa học thuộc nhóm Q1, Q2 đạt 64%, vượt 14% chỉ tiêu Đại hội VI; số đơn đăng ký giải pháp hữu ích, sáng chế được chấp nhận hợp lệ ước đạt 357 hồ sơ. Mạng lưới khoa học công nghệ và đổi mới sáng tạo của ĐHQGHN được cấu trúc lại với 15 chương trình nghiên cứu; 08 lĩnh vực công nghệ ưu tiên (Công nghệ Chip bán dẫn, Trí tuệ nhân tạo và công nghệ số, Công nghệ Sinh – Y và Nông nghiệp, Môi trường, Robot và tự động hoá, Năng lượng và vật liệu tiên tiến, Công nghệ lượng tử); 46 nhóm nghiên cứu mạnh; hệ thống phòng thí nghiệm được đầu tư, hiện đại hóa, trong đó có 09 phòng thí nghiệm trọng điểm và 01 phòng thí nghiệm trọng điểm quốc gia. Công viên Công nghệ cao và Đổi mới sáng tạo gắn với phát triển các đơn vị nghiên cứu ứng dụng và chuyển giao (tổ chức lại các Viện nghiên cứu thành viên, triển khai thành lập Viện Bán dẫn và Vật liệu tiên tiến, Viện Nghiên cứu ứng dụng Trí tuệ nhân tạo trong phát triển bền vững, Viện Công nghệ Lượng tử, Công ty Cổ phần đầu tư phát triển ĐHQGHN, Vườn ươm doanh nghiệp KHCN, các quỹ phát triển KHCN…). ĐHQGHN tiếp tục khẳng định và phát huy tốt vai trò và uy tín học thuật trong việc thực hiện các nhiệm vụ quốc gia: Tham gia tổng kết thực tiễn, nghiên cứu lý luận, nhất là các nghị quyết của Trung ương, Bộ Chính trị với nhiều công trình nghiên cứu cung cấp cơ sở và luận cứ khoa học tư vấn chính sách cho Đảng, Nhà nước; tham gia sâu vào việc tư vấn, phản biện, góp ý cho Quy hoạch tổng thể quốc gia, Thủ đô và các địa phương thời kỳ 2021-2030, tầm nhìn đến năm 2050. Tăng cường nghiên cứu ứng dụng, với uy tín cao về học thuật và tiềm lực KHCN mạnh, ĐHQGHN tiếp tục được giao chủ trì triển khai nhiều nhiệm vụ khoa học lớn, tầm quốc gia với hàng chục sản phẩm KHCN được đưa vào ứng dụng, triển khai trong thực tiễn. Ưu thế về mô hình tổ chức và với vai trò là đại học hàng đầu của Việt Nam đã cho phép ĐHQGHN hợp tác với các đại học lớn trên thế giới. Cùng với việc duy trì hàng trăm đối tác quốc tế truyền thống, trong thời gian qua, ĐHQGHN đã mở rộng ký kết hợp tác với các đại học danh tiếng hàng đầu thế giới như: Đại học Thanh Hoa, Đại học Bắc Kinh, Đại học Quốc gia Seoul, Đại học Quốc gia Singapore, Đại học Công nghệ Nanyang, Đại học Tokyo, Đại học Paris-Saclay, Đại học RMIT, Đại học College Dublin, và nhiều đại học hàng đầu của Nga, Pháp, Hàn Quốc… Thông qua hợp tác quốc tế, ĐHQGHN đã tiên phong thúc đẩy các hoạt động trao đổi sinh viên và giảng viên quốc tế. ĐHQGHN luôn là điểm đến của các đại học, tổ chức giáo dục – khoa học, học giả, chính khách và nhà hoạt động xã hội nổi tiếng thế giới. Các chỉ số xếp hạng đại học của ĐHQGHN không ngừng được cải thiện, theo bảng xếp hạng QS, về tổng thể ĐHQGHN hiện đứng vị trí 761-770 các cơ sở giáo dục đại học tốt nhất thế giới, liên tục tăng hơn 100 bậc/năm trong 3 năm gần đây; Tại Bảng xếp hạng của Times Higher Education Impact Rankings lấy 17 mục tiêu phát triển bền vững của Liên hiệp quốc, ĐHQGHN đứng ở vị trí 70 thế giới về tiêu chí Giáo dục có chất lượng; Bảng xếp hạng QS World University Rankings về phát triển bền vững 2025, ĐHQGHN xếp hạng 325 thế giới, đứng vị trí 51 của khu vực châu Á và số 1 Việt Nam; nhiều chỉ số quan trọng, ngành/lĩnh vực nằm trong nhóm 500 đại học hàng đầu thế giới. Mới đây nhất, Chính phủ đã ban hành Nghị định số 201/2025/NĐ-CP ngày 11/7/2025 quy định về chức năng, nhiệm vụ và quyền hạn của đại học quốc gia (ĐHQG) thay thế Nghị định số 186/2013/NĐ-CP ngày 17/11/2013 của Chính phủ. Đây là bước ngoặt lịch sử, khẳng định ĐHQG không chỉ là nòng cốt trong hệ thống giáo dục đại học Việt Nam mà còn tạo ra một cơ chế mới để phát huy hết tiềm lực thực hiện các sứ mệnh mới của kỷ nguyên vươn mình. Với sự quan tâm của lãnh đạo Đảng, Nhà nước và sự hỗ trợ, kiến tạo của các bộ, ngành cùng nội lực mạnh mẽ từ đội ngũ giảng viên, nhà khoa học và sinh viên, ĐHQGHN đang trên hành trình phát triển đột phá trở thành biểu tượng của đổi mới sáng tạo, đóng góp thiết thực vào sự phát triển bền vững của đất nước. >>> Tin bài về Đại hội Đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030 trên báo chí: – Báo Chính phủ: [Đại học Quốc gia Hà Nội hằng năm cung cấp gần 10.000 cử nhân](https://baochinhphu.vn/dai-hoc-quoc-gia-ha-noi-hang-nam-cung-cap-gan-10000-cu-nhan-102250718164922106.htm) – Báo Nhân dân: + [Tạo lập vị thế mới của cơ sở đào tạo, nghiên cứu hàng đầu cả nước](https://nhandan.vn/tao-lap-vi-the-moi-cua-co-so-dao-tao-nghien-cuu-hang-dau-ca-nuoc-post894243.html) + [Đại học Quốc gia Hà Nội phấn đấu trở thành đại học đổi mới, sáng tạo hàng đầu thế giới](https://nhandan.vn/dai-hoc-quoc-gia-ha-noi-phan-dau-tro-thanh-dai-hoc-doi-moi-sang-tao-hang-dau-the-gioi-post894612.html) – Báo Giáo dục thời đại: [Giám đốc Lê Quân tái đắc cử Bí thư Đảng ủy ĐHQGHN](https://giaoducthoidai.vn/giam-doc-le-quan-tai-dac-cu-bi-thu-dang-uy-dhqghn-post740391.html) – Báo Lao động: [Đại hội đại biểu lần thứ VII Đảng bộ ĐHQGHN nêu cao tinh thần phát triển đột phá](https://laodong.vn/thoi-su/dai-hoi-dai-bieu-lan-thu-vii-dang-bo-dhqghn-neu-cao-tinh-than-phat-trien-dot-pha-1542276.ldo) – Báo Công an nhân dân: [Đại học Quốc gia Hà Nội phấn đấu dẫn đầu về đột phá khoa học công nghệ và đổi mới sáng tạo](https://cand.com.vn/giao-duc/dai-hoc-quoc-gia-ha-noi-phan-dau-dan-dau-ve-dot-pha-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-i775213/) – Báo tin tức (TTXVN): [Phấn đấu xây dựng, phát triển ĐHQGHN trở thành đại học đổi mới sáng tạo hàng đầu thế giới](https://baotintuc.vn/giao-duc/phan-dau-xay-dung-phat-trien-dhqghn-tro-thanh-dai-hoc-doi-moi-sang-tao-hang-dau-the-gioi-20250718101652028.htm) – Báo Đại biểu nhân dân: [Đồng chí Lê Quân đã tái đắc cử Bí thư Đảng ủy Đại học Quốc gia Hà Nội nhiệm kỳ 2025-2030](https://daibieunhandan.vn/dong-chi-le-quan-da-tai-dac-cu-bi-thu-dang-uy-dai-hoc-quoc-gia-ha-noi-nhiem-ky-2025-2030-10380139.html) – Báo Kinh tế & Đô thị: [Đại học Quốc gia Hà Nội xây dựng mô hình đại học số tiên phong của Việt Nam](https://kinhtedothi.vn/dai-hoc-quoc-gia-ha-noi-xay-dung-mo-hinh-dai-hoc-so-tien-phong-cua-viet-nam.775374.html) – Báo Sinh viên Việt Nam: [ĐHQG Hà Nội: Sinh viên là trung tâm của đổi mới và sáng tạo](https://svvn.tienphong.vn/dhqg-ha-noi-sinh-vien-la-trung-tam-cua-doi-moi-va-sang-tao-post1761287.tpo)  |  
-| --- |
+| --- |  
+Xem thêm:
+  * [Điểm chuẩn (điểm trúng tuyển) đại học chính quy năm 2020 của ĐHQGHN](https://css.vnu.edu.vn/diem-chuan-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2020-cua-dhqghn/)
+  * [[Infographic] Lịch thi tốt nghiệp trung học phổ thông và xét tuyển đại học năm 2023](https://css.vnu.edu.vn/infographic-lich-thi-tot-nghiep-trung-hoc-pho-thong-va-xet-tuyen-dai-hoc-nam-2023/)
+  * [Cách mạng Tháng Tám và người dân Việt Bắc](https://css.vnu.edu.vn/cach-mang-thang-tam-va-nguoi-dan-viet-bac/)
+  * [Nhà ăn B4 – Không gian ẩm thực thuận tiện cho sinh viên Ký túc xá ĐHQGHN tại Hòa Lạc](https://css.vnu.edu.vn/nha-an-b4-khong-gian-am-thuc-thuan-tien-cho-sinh-vien-ky-tuc-xa-dhqghn-tai-hoa-lac/)
+  * [Giao lưu thể thao sinh viên Việt Nam và quốc tế tại KTX Mễ Trì với chủ đề “Khoẻ để lập nghiệp”](https://css.vnu.edu.vn/giao-luu-the-thao-sinh-vien-viet-nam-va-quoc-te-tai-ktx-me-tri-voi-chu-de-khoe-de-lap-nghiep-2/)
+
+
+[](whatsapp://send?text=%C4%90%E1%BA%A1i%20h%E1%BB%99i%20%C4%91%E1%BA%A1i%20bi%E1%BB%83u%20%C4%90%E1%BA%A3ng%20b%E1%BB%99%20%C4%90HQGHN%20l%E1%BA%A7n%20th%E1%BB%A9%20VII%2C%20nhi%E1%BB%87m%20k%E1%BB%B3%202025-2030%3A%20%C4%90%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20%26%238211%3B%20Tr%C3%A1ch%20nhi%E1%BB%87m%20qu%E1%BB%91c%20gia%20%26%238211%3B%20Ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%E1%BB%99t%20ph%C3%A1%20-%20https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/ "Share on WhatsApp")[](https://www.facebook.com/sharer.php?u=https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/ "Share on Facebook")[](https://twitter.com/share?url=https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/ "Share on Twitter")[](https://pinterest.com/pin/create/button?url=https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/&media=https://css.vnu.edu.vn/wp-content/uploads/2025/07/vnu-dai-hoi-dang-bo-dhqghn-lan-thu-vii-71-1024x683.jpg&description=%C4%90%E1%BA%A1i%20h%E1%BB%99i%20%C4%91%E1%BA%A1i%20bi%E1%BB%83u%20%C4%90%E1%BA%A3ng%20b%E1%BB%99%20%C4%90HQGHN%20l%E1%BA%A7n%20th%E1%BB%A9%20VII%2C%20nhi%E1%BB%87m%20k%E1%BB%B3%202025-2030%3A%20%C4%90%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20%26%238211%3B%20Tr%C3%A1ch%20nhi%E1%BB%87m%20qu%E1%BB%91c%20gia%20%26%238211%3B%20Ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%E1%BB%99t%20ph%C3%A1 "Pin on Pinterest")[](https://www.linkedin.com/shareArticle?mini=true&url=https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/&title=%C4%90%E1%BA%A1i%20h%E1%BB%99i%20%C4%91%E1%BA%A1i%20bi%E1%BB%83u%20%C4%90%E1%BA%A3ng%20b%E1%BB%99%20%C4%90HQGHN%20l%E1%BA%A7n%20th%E1%BB%A9%20VII%2C%20nhi%E1%BB%87m%20k%E1%BB%B3%202025-2030%3A%20%C4%90%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20%26%238211%3B%20Tr%C3%A1ch%20nhi%E1%BB%87m%20qu%E1%BB%91c%20gia%20%26%238211%3B%20Ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%E1%BB%99t%20ph%C3%A1 "Share on LinkedIn")
+Danh mục: [Đảng - Đoàn thể](https://css.vnu.edu.vn/dang-doan-the/) [Tin tức](https://css.vnu.edu.vn/tin-tuc/)
+### Bài viết cùng chủ đề:
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20680%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/diem-chuan-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2026/)
+#### [Điểm chuẩn (điểm trúng tuyển) đại học chính quy năm 2026 ](https://css.vnu.edu.vn/diem-chuan-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2026/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20578%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-tri-an-cac-anh-hung-liet-si-thuong-binh-benh-binh-va-nguoi-co-cong/)
+#### [TRUNG TÂM HỖ TRỢ SINH VIÊN ĐHQGHN TRI ÂN CÁC ANH HÙNG LIỆT SĨ, THƯƠNG BINH, BỆNH BINH VÀ NGƯỜI CÓ CÔNG ](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-tri-an-cac-anh-hung-liet-si-thuong-binh-benh-binh-va-nguoi-co-cong/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20765%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-tiep-nhan-cong-trinh-nha-d1-d7-d8-san-sang-cac-dieu-kien-phuc-vu-sinh-vien-tai-hoa-lac/)
+#### [TRUNG TÂM HỖ TRỢ SINH VIÊN TIẾP NHẬN CÔNG TRÌNH NHÀ D1, D7, D8, SẴN SÀNG CÁC ĐIỀU KIỆN PHỤC VỤ SINH VIÊN TẠI HÒA LẠC ](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-tiep-nhan-cong-trinh-nha-d1-d7-d8-san-sang-cac-dieu-kien-phuc-vu-sinh-vien-tai-hoa-lac/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20577%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-lam-viec-voi-linkedin-thuc-day-cac-giai-phap-nang-cao-nang-luc-nghe-nghiep-va-co-hoi-viec-lam-cho-sinh-vien/)
+#### [TRUNG TÂM HỖ TRỢ SINH VIÊN ĐHQGHN LÀM VIỆC VỚI LINKEDIN, THÚC ĐẨY CÁC GIẢI PHÁP NÂNG CAO NĂNG LỰC NGHỀ NGHIỆP VÀ CƠ HỘI VIỆC LÀM CHO SINH VIÊN ](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-lam-viec-voi-linkedin-thuc-day-cac-giai-phap-nang-cao-nang-luc-nghe-nghiep-va-co-hoi-viec-lam-cho-sinh-vien/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%201020%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/tim-viec-lam-thuc-tap-de-dang-hon-cung-cong-thong-tin-viec-lam-sinh-vien-dhqghn/)
+#### [TÌM VIỆC LÀM, THỰC TẬP DỄ DÀNG HƠN CÙNG CỔNG THÔNG TIN VIỆC LÀM SINH VIÊN ĐHQGHN ](https://css.vnu.edu.vn/tim-viec-lam-thuc-tap-de-dang-hon-cung-cong-thong-tin-viec-lam-sinh-vien-dhqghn/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20578%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/vnu-css-ky-ket-quy-che-phoi-hop-voi-dia-phuong-xay-dung-moi-truong-hoc-tap-sinh-hoat-an-toan-toan-dien-cho-sinh-vien-tai-hoa-lac/)
+#### [VNU-CSS ký kết quy chế phối hợp với địa phương: Xây dựng môi trường học tập, sinh hoạt an toàn, toàn diện cho sinh viên tại Hòa Lạc ](https://css.vnu.edu.vn/vnu-css-ky-ket-quy-che-phoi-hop-voi-dia-phuong-xay-dung-moi-truong-hoc-tap-sinh-hoat-an-toan-toan-dien-cho-sinh-vien-tai-hoa-lac/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20679%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/%f0%9f%93%8c-chuong-trinh-ngay-hoi-viec-lam-va-doi-moi-sang-tao-css-connect-2026-ket-hop-voi-chung-ket-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-nam-20/)
+#### [📌 CHƯƠNG TRÌNH “NGÀY HỘI VIỆC LÀM VÀ ĐỔI MỚI SÁNG TẠO – CSS CONNECT 2026” KẾT HỢP VỚI CHUNG KẾT CUỘC THI “HỌC SINH, SINH VIÊN VỚI Ý TƯỞNG KHỞI NGHIỆP” NĂM 2026 DIỄN RA THÀNH CÔNG ](https://css.vnu.edu.vn/%f0%9f%93%8c-chuong-trinh-ngay-hoi-viec-lam-va-doi-moi-sang-tao-css-connect-2026-ket-hop-voi-chung-ket-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-nam-20/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20574%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/toa-dam-nhan-dien-thuc-pham-ban-va-ky-nang-lua-chon-thuc-pham-an-toan-cho-hoc-sinh-sinh-vien-noi-tru/)
+#### [TỌA ĐÀM “NHẬN DIỆN THỰC PHẨM BẨN VÀ KỸ NĂNG LỰA CHỌN THỰC PHẨM AN TOÀN” CHO HỌC SINH, SINH VIÊN NỘI TRÚ ](https://css.vnu.edu.vn/toa-dam-nhan-dien-thuc-pham-ban-va-ky-nang-lua-chon-thuc-pham-an-toan-cho-hoc-sinh-sinh-vien-noi-tru/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20765%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/ky-tuc-xa-me-tri-trung-tam-ho-tro-sinh-vien-don-tiep-doan-kiem-tra-danh-gia-aun-qa-cap-ctdt-lan-thu-516/)
+#### [Ký túc xá Mễ Trì – Trung tâm Hỗ trợ sinh viên đón tiếp Đoàn kiểm tra đánh giá AUN-QA cấp CTĐT lần thứ 516. ](https://css.vnu.edu.vn/ky-tuc-xa-me-tri-trung-tam-ho-tro-sinh-vien-don-tiep-doan-kiem-tra-danh-gia-aun-qa-cap-ctdt-lan-thu-516/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20578%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/chu-dong-chuan-bi-cho-o-cho-15-000-sinh-vien-len-hoc-tap-tai-hoa-lac-trung-tam-ho-tro-sinh-vien-tang-toc-trien-khai-dong-bo-cac-giai-phap-ho-tro-sinh-vien-noi-ngoai-tru/)
+#### [CHỦ ĐỘNG CHUẨN BỊ CHỖ Ở CHO 15.000 SINH VIÊN LÊN HỌC TẬP TẠI HOÀ LẠC: TRUNG TÂM HỖ TRỢ SINH VIÊN TĂNG TỐC TRIỂN KHAI ĐỒNG BỘ CÁC GIẢI PHÁP HỖ TRỢ SINH VIÊN NỘI, NGOẠI TRÚ ](https://css.vnu.edu.vn/chu-dong-chuan-bi-cho-o-cho-15-000-sinh-vien-len-hoc-tap-tai-hoa-lac-trung-tam-ho-tro-sinh-vien-tang-toc-trien-khai-dong-bo-cac-giai-phap-ho-tro-sinh-vien-noi-ngoai-tru/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20679%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/ngay-hoi-viec-lam-va-doi-moi-sang-tao-css-connect-2026-ket-noi-co-hoi-khoi-nguon-sang-tao-cho-sinh-vien-dhqghn/)
+#### [Ngày hội Việc làm và Đổi mới sáng tạo – CSS CONNECT 2026: Kết nối cơ hội, khơi nguồn sáng tạo cho sinh viên ĐHQGHN ](https://css.vnu.edu.vn/ngay-hoi-viec-lam-va-doi-moi-sang-tao-css-connect-2026-ket-noi-co-hoi-khoi-nguon-sang-tao-cho-sinh-vien-dhqghn/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20680%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-ky-ket-thoa-thuan-hop-tac-voi-khoa-vat-ly-truong-dai-hoc-khoa-hoc-tu-nhien-va-cong-ty-ocean-connect/)
+#### [TRUNG TÂM HỖ TRỢ SINH VIÊN – ĐHQGHN KÝ KẾT THỎA THUẬN HỢP TÁC VỚI KHOA VẬT LÝ, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN VÀ CÔNG TY OCEAN CONNECT ](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-dhqghn-ky-ket-thoa-thuan-hop-tac-voi-khoa-vat-ly-truong-dai-hoc-khoa-hoc-tu-nhien-va-cong-ty-ocean-connect/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20574%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/cuoc-thi-tieng-hat-sinh-vien-noi-tru-2026-thanh-am-huyen-ao-dien-ra-thanh-cong-tot-dep/)
+#### [CUỘC THI “TIẾNG HÁT SINH VIÊN NỘI TRÚ 2026 – THANH ÂM HUYỀN ẢO” DIỄN RA THÀNH CÔNG TỐT ĐẸP ](https://css.vnu.edu.vn/cuoc-thi-tieng-hat-sinh-vien-noi-tru-2026-thanh-am-huyen-ao-dien-ra-thanh-cong-tot-dep/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20680%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/cac-du-an-tham-gia-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-nam-2026-tham-gia-chuong-trinh-trai-nghiem-thuc-te-va-tap-huan-tai-thai-nguyen/)
+#### [CÁC DỰ ÁN THAM GIA CUỘC THI “HỌC SINH, SINH VIÊN VỚI Ý TƯỞNG KHỞI NGHIỆP” NĂM 2026 THAM GIA CHƯƠNG TRÌNH TRẢI NGHIỆM THỰC TẾ VÀ TẬP HUẤN TẠI THÁI NGUYÊN ](https://css.vnu.edu.vn/cac-du-an-tham-gia-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-nam-2026-tham-gia-chuong-trinh-trai-nghiem-thuc-te-va-tap-huan-tai-thai-nguyen/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20574%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/co-hoi-khoi-nghiep-co-funding-500k-usd-cho-sinh-vien-ha-noi/)
+#### [Cơ hội khởi nghiệp có Funding $500K USD cho Sinh viên Hà Nội ](https://css.vnu.edu.vn/co-hoi-khoi-nghiep-co-funding-500k-usd-cho-sinh-vien-ha-noi/)
+  * [![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20578%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)](https://css.vnu.edu.vn/to-chuc-thanh-cong-chuoi-chuong-trinh-tech-digital-skills-workshop-2026-danh-cho-sinh-vien-dhqghn/)
+#### [TỔ CHỨC THÀNH CÔNG CHUỖI CHƯƠNG TRÌNH “TECH & DIGITAL SKILLS WORKSHOP 2026” DÀNH CHO SINH VIÊN ĐHQGHN ](https://css.vnu.edu.vn/to-chuc-thanh-cong-chuoi-chuong-trinh-tech-digital-skills-workshop-2026-danh-cho-sinh-vien-dhqghn/)
+
+
+[ Phiên trù bị Đại hội đại biểu Đảng bộ ĐHQGHN lần thứ VII, nhiệm kỳ 2025-2030](https://css.vnu.edu.vn/phien-tru-bi-dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030/)
+[Trung tâm Hỗ trợ sinh viên khẩn trương triển khai ứng phó bão số 3 (Wipha) ](https://css.vnu.edu.vn/trung-tam-ho-tro-sinh-vien-khan-truong-trien-khai-ung-pho-bao-so-3-wipha/)
+### Để lại một bình luận [Hủy](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/#respond)
+Email của bạn sẽ không được hiển thị công khai. Các trường bắt buộc được đánh dấu *
+Bình luận *
+Tên *
+Email *
+Trang web
+Lưu tên của tôi, email, và trang web trong trình duyệt này cho lần bình luận kế tiếp của tôi.
+![](https://css.vnu.edu.vn/wp-content/uploads/2024/12/logo-1.png)
+## **ĐẠI HỌC QUỐC GIA HÀ NỘI**
+## **CÔNG VIÊN CÔNG NGHỆ CAO VÀ ĐỔI MỚI SÁNG TẠO**
+## **TRUNG TÂM HỖ TRỢ SINH VIÊN**
+Địa Chỉ: 144 đường Xuân Thủy - Cầu Giấy - Hà Nội
+  * Hotine: (+84) 243 754.7422
+  * Fax: (+84) 243 754.7422
+  * Email: tthtsv@vnu.edu.vn
+
+
+Copyright @ 
+[](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/#top)
+  *   * [Giới thiệu](https://css.vnu.edu.vn/gioi-thieu/)
+    * [Lịch sử hình thành](https://css.vnu.edu.vn/lich-su-hinh-thanh/)
+    * [Sơ đồ tổ chức](https://css.vnu.edu.vn/so-do-to-chuc-trung-tam-ho-tro-sinh-vien/)
+    * [Công tác cán bộ](https://css.vnu.edu.vn/cong-tac-can-bo/)
+    * [Sự mệnh tầm nhìn](https://css.vnu.edu.vn/su-menh-tam-nhin/)
+    * [Chức năng nhiệm vụ](https://css.vnu.edu.vn/chuc-nang-nhiem-vu/)
+  * [Sinh Viên](https://css.vnu.edu.vn/hd-sinh-vien/)
+  * [Ký túc xá](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Thông tin phòng ở](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Các biểu mẫu KTX](https://css.vnu.edu.vn/ky-tuc-xa/)
+    * [Tham qua KTX Online](https://css.vnu.edu.vn/ky-tuc-xa/)
+  * [Tin tức](https://css.vnu.edu.vn/tin-tuc/)
+    * [Tin giáo dục](https://css.vnu.edu.vn/tin-tuc/tin-giao-duc/)
+    * [Tin nhà trường](https://css.vnu.edu.vn/tin-tuc/tin-nha-truong/)
+    * [Hướng dẫn](https://css.vnu.edu.vn/tin-tuc/huong-dan/)
+    * [Lao động và Hướng nghiệp](https://css.vnu.edu.vn/tin-tuc/lao-dong-huong-nghiep/)
+  * [Thông báo](https://css.vnu.edu.vn/thong-bao/)
+  * [Việc làm](https://css.vnu.edu.vn/viec-lam/)
+    * [Thông tin việc làm](https://css.vnu.edu.vn/viec-lam/)
+    * [Nhà tuyển dụng](https://css.vnu.edu.vn/viec-lam/)
+    * [Kết nối](https://css.vnu.edu.vn/viec-lam/)
+  * [Đoàn thể](https://css.vnu.edu.vn/dang-doan-the/)
+  * [Liên hệ](https://css.vnu.edu.vn/lien-he/)
+
+
+  * [Tìm đường](https://maps.app.goo.gl/3ox8L95uarEtn5JN8)
+  * [Chat Zalo](https://zalo.me/184273929334355208)
+  * [ Gọi điện ](tel:02437547422)
+  * [Messenger](https://www.messenger.com/t/trungtamhotrosinhvienVNU)
+  * Email
+  * [ ](https://css.vnu.edu.vn/dai-hoi-dai-bieu-dang-bo-dhqghn-lan-thu-vii-nhiem-ky-2025-2030-doi-moi-sang-tao-trach-nhiem-quoc-gia-phat-trien-dot-pha/)
+
+
